@@ -1,3 +1,3 @@
 # domaci-veterinar
 
-Domaci zadatak "Veterinar" za DevLab
+Domaci zadatak "Veterinar" za DeveloperLabs
